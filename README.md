@@ -1,5 +1,5 @@
-## Statistics
 <div align="center">
+## Statistics
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 **✨ 107 people were here!**
 
