@@ -1,3 +1,4 @@
+<div align="center">
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 **✨ 107 people were here!**
 
@@ -58,3 +59,4 @@
 | | | | |
 
 <!--END_SECTION_LANGUAGE:readme-info-->
+</div>
