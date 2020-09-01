@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-pranavsinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranav-sinha)](https://www.linkedin.com/in/pranav-sinha)      [![Gmail Badge](https://img.shields.io/badge/-pran.sinha1.0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pran.sinha1.0@gmail.com)](mailto:pran.sinha1.0@gmail.com)
 
 
-Welcome to my github profile. I am from India and love coding and animes.
+Welcome to my github profile. I am from India and love coding and anime.
 
 ## Technologies I am interested in :computer:
 * Machine Learning
