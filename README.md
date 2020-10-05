@@ -19,17 +19,7 @@ Welcome to my github profile. I am from India and love coding and anime.
 <img src = 'https://github.com/pran01/pran01/blob/master/images/c-original.svg' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/cpp.svg' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/python2.png' height='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/html.svg' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/css.svg' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/js.svg' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/bootstrap.svg' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/flask.png' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/sqlite.svg' width='100'/> 
 
 ## Statistics Below :point_down:
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 2 people were here!**
 
-
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
-
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 195601 Lines of Code ✍️**
-
-
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
 **🏆 209 Contributions in year 2020**
