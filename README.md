@@ -22,7 +22,7 @@ Welcome to my github profile. I am from India and love coding and anime.
 
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 212 Contributions in year 2020**
+**🏆 214 Contributions in year 2020**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -32,10 +32,10 @@ Welcome to my github profile. I am from India and love coding and anime.
 
 | | | | |
 | --- | --- | --- | --- |
-|🌞 Morning                |51 commits          |![](https://via.placeholder.com/100x22/000000/000000?text=+)![](https://via.placeholder.com/300x22/b8b8b8/b8b8b8?=text=+)|25.25%|
-|🌆 Daytime                |54 commits          |![](https://via.placeholder.com/108x22/000000/000000?text=+)![](https://via.placeholder.com/292x22/b8b8b8/b8b8b8?=text=+)|26.73%|
-|🌃 Evening                |70 commits          |![](https://via.placeholder.com/140x22/000000/000000?text=+)![](https://via.placeholder.com/260x22/b8b8b8/b8b8b8?=text=+)|34.65%|
-|🌙 Night                  |27 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|13.37%|
+|🌞 Morning                |52 commits          |![](https://via.placeholder.com/100x22/000000/000000?text=+)![](https://via.placeholder.com/300x22/b8b8b8/b8b8b8?=text=+)|25.49%|
+|🌆 Daytime                |54 commits          |![](https://via.placeholder.com/104x22/000000/000000?text=+)![](https://via.placeholder.com/296x22/b8b8b8/b8b8b8?=text=+)|26.47%|
+|🌃 Evening                |71 commits          |![](https://via.placeholder.com/140x22/000000/000000?text=+)![](https://via.placeholder.com/260x22/b8b8b8/b8b8b8?=text=+)|34.8%|
+|🌙 Night                  |27 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|13.24%|
 | | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
@@ -45,13 +45,13 @@ Welcome to my github profile. I am from India and love coding and anime.
 
 | | | | |
 | --- | --- | --- | --- |
-|Monday                   |46 commits          |![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|23.59%|
-|Tuesday                  |37 commits          |![](https://via.placeholder.com/76x22/000000/000000?text=+)![](https://via.placeholder.com/324x22/b8b8b8/b8b8b8?=text=+)|18.97%|
-|Wednesday                |18 commits          |![](https://via.placeholder.com/36x22/000000/000000?text=+)![](https://via.placeholder.com/364x22/b8b8b8/b8b8b8?=text=+)|9.23%|
-|Thursday                 |26 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|13.33%|
-|Friday                   |16 commits          |![](https://via.placeholder.com/32x22/000000/000000?text=+)![](https://via.placeholder.com/368x22/b8b8b8/b8b8b8?=text=+)|8.21%|
-|Saturday                 |11 commits          |![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.64%|
-|Sunday                   |41 commits          |![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|21.03%|
+|Monday                   |46 commits          |![](https://via.placeholder.com/92x22/000000/000000?text=+)![](https://via.placeholder.com/308x22/b8b8b8/b8b8b8?=text=+)|23.35%|
+|Tuesday                  |39 commits          |![](https://via.placeholder.com/80x22/000000/000000?text=+)![](https://via.placeholder.com/320x22/b8b8b8/b8b8b8?=text=+)|19.8%|
+|Wednesday                |18 commits          |![](https://via.placeholder.com/36x22/000000/000000?text=+)![](https://via.placeholder.com/364x22/b8b8b8/b8b8b8?=text=+)|9.14%|
+|Thursday                 |26 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|13.2%|
+|Friday                   |16 commits          |![](https://via.placeholder.com/32x22/000000/000000?text=+)![](https://via.placeholder.com/368x22/b8b8b8/b8b8b8?=text=+)|8.12%|
+|Saturday                 |11 commits          |![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.58%|
+|Sunday                   |41 commits          |![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|20.81%|
 | | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
