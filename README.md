@@ -22,7 +22,7 @@ Welcome to my github profile. I am from India and love coding and anime.
 
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 242 Contributions in year 2020**
+**🏆 243 Contributions in year 2020**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -32,10 +32,10 @@ Welcome to my github profile. I am from India and love coding and anime.
 
 | | | | |
 | --- | --- | --- | --- |
-|🌞 Morning                |62 commits          |![](https://via.placeholder.com/108x22/000000/000000?text=+)![](https://via.placeholder.com/292x22/b8b8b8/b8b8b8?=text=+)|27.19%|
-|🌆 Daytime                |63 commits          |![](https://via.placeholder.com/112x22/000000/000000?text=+)![](https://via.placeholder.com/288x22/b8b8b8/b8b8b8?=text=+)|27.63%|
-|🌃 Evening                |76 commits          |![](https://via.placeholder.com/132x22/000000/000000?text=+)![](https://via.placeholder.com/268x22/b8b8b8/b8b8b8?=text=+)|33.33%|
-|🌙 Night                  |27 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.84%|
+|🌞 Morning                |63 commits          |![](https://via.placeholder.com/112x22/000000/000000?text=+)![](https://via.placeholder.com/288x22/b8b8b8/b8b8b8?=text=+)|27.51%|
+|🌆 Daytime                |63 commits          |![](https://via.placeholder.com/112x22/000000/000000?text=+)![](https://via.placeholder.com/288x22/b8b8b8/b8b8b8?=text=+)|27.51%|
+|🌃 Evening                |76 commits          |![](https://via.placeholder.com/132x22/000000/000000?text=+)![](https://via.placeholder.com/268x22/b8b8b8/b8b8b8?=text=+)|33.19%|
+|🌙 Night                  |27 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.79%|
 | | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
@@ -45,13 +45,13 @@ Welcome to my github profile. I am from India and love coding and anime.
 
 | | | | |
 | --- | --- | --- | --- |
-|Monday                   |47 commits          |![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|21.27%|
-|Tuesday                  |43 commits          |![](https://via.placeholder.com/76x22/000000/000000?text=+)![](https://via.placeholder.com/324x22/b8b8b8/b8b8b8?=text=+)|19.46%|
-|Wednesday                |23 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.41%|
-|Thursday                 |31 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|14.03%|
-|Friday                   |18 commits          |![](https://via.placeholder.com/32x22/000000/000000?text=+)![](https://via.placeholder.com/368x22/b8b8b8/b8b8b8?=text=+)|8.14%|
-|Saturday                 |12 commits          |![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|5.43%|
-|Sunday                   |47 commits          |![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|21.27%|
+|Monday                   |47 commits          |![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|21.17%|
+|Tuesday                  |43 commits          |![](https://via.placeholder.com/76x22/000000/000000?text=+)![](https://via.placeholder.com/324x22/b8b8b8/b8b8b8?=text=+)|19.37%|
+|Wednesday                |23 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.36%|
+|Thursday                 |31 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.96%|
+|Friday                   |18 commits          |![](https://via.placeholder.com/32x22/000000/000000?text=+)![](https://via.placeholder.com/368x22/b8b8b8/b8b8b8?=text=+)|8.11%|
+|Saturday                 |13 commits          |![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.86%|
+|Sunday                   |47 commits          |![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|21.17%|
 | | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
@@ -61,11 +61,11 @@ Welcome to my github profile. I am from India and love coding and anime.
 
 | | | | |
 | --- | --- | --- | --- |
-|Python                   |7 repos|             ![](https://via.placeholder.com/176x22/000000/000000?text=+)![](https://via.placeholder.com/224x22/b8b8b8/b8b8b8?=text=+)|43.75%|
-|JavaScript               |4 repos|             ![](https://via.placeholder.com/100x22/000000/000000?text=+)![](https://via.placeholder.com/300x22/b8b8b8/b8b8b8?=text=+)|25.0%|
-|HTML                     |2 repos|             ![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|12.5%|
-|Jupyter Notebook         |2 repos|             ![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|12.5%|
-|TeX                      |1 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|6.25%|
+|Python                   |7 repos|             ![](https://via.placeholder.com/164x22/000000/000000?text=+)![](https://via.placeholder.com/236x22/b8b8b8/b8b8b8?=text=+)|41.18%|
+|JavaScript               |5 repos|             ![](https://via.placeholder.com/116x22/000000/000000?text=+)![](https://via.placeholder.com/284x22/b8b8b8/b8b8b8?=text=+)|29.41%|
+|HTML                     |2 repos|             ![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.76%|
+|Jupyter Notebook         |2 repos|             ![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.76%|
+|TeX                      |1 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.88%|
 | | | | |
 
 <!--END_SECTION_LANGUAGE:readme-info-->
