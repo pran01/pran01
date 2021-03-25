@@ -10,10 +10,10 @@
 Welcome to my github profile. I am from India and love coding and anime.
 
 ## Technologies I am interested in :computer:
-* Machine Learning
+* Frontend and Backend Web Development
 * Deep Learning
 * Data Science
-* Frontend and Backend Web Development
+* Android Development
 
 ## Languages and Frameworks
 <img src = 'https://github.com/pran01/pran01/blob/master/images/c-original.svg' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/cpp.svg' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/python2.png' height='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/html.svg' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/css.svg' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/js.svg' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/bootstrap.svg' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/flask.png' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/sqlite.svg' width='100'/> 
@@ -39,22 +39,6 @@ Welcome to my github profile. I am from India and love coding and anime.
 | | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-📅 **I'm Most Productive on Mondays** 
-
-| | | | |
-| --- | --- | --- | --- |
-|Monday                   |53 commits          |![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|21.2%|
-|Tuesday                  |29 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.6%|
-|Wednesday                |29 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.6%|
-|Thursday                 |39 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.6%|
-|Friday                   |30 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|12.0%|
-|Saturday                 |25 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.0%|
-|Sunday                   |45 commits          |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|18.0%|
-| | | | |
-
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 <!--START_SECTION_LANGUAGE:readme-info-->
 **My 💖 languages JavaScript** 
