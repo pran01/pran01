@@ -22,7 +22,7 @@ Welcome to my github profile. I am from India and love coding and anime.
 
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 203 Contributions in year 2022**
+**🏆 204 Contributions in year 2022**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
