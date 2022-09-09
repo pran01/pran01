@@ -22,7 +22,7 @@ Welcome to my github profile. I am from India and love coding and anime.
 
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 233 Contributions in year 2022**
+**🏆 234 Contributions in year 2022**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -32,10 +32,10 @@ Welcome to my github profile. I am from India and love coding and anime.
 
 | | | | |
 | --- | --- | --- | --- |
-|🌞 Morning                |102 commits         |![](https://via.placeholder.com/304x22/000000/000000?text=+)![](https://via.placeholder.com/96x22/b8b8b8/b8b8b8?=text=+)|75.56%|
-|🌆 Daytime                |14 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.37%|
-|🌃 Evening                |16 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.85%|
-|🌙 Night                  |3 commits           |![](https://via.placeholder.com/8x22/000000/000000?text=+)![](https://via.placeholder.com/392x22/b8b8b8/b8b8b8?=text=+)|2.22%|
+|🌞 Morning                |102 commits         |![](https://via.placeholder.com/312x22/000000/000000?text=+)![](https://via.placeholder.com/88x22/b8b8b8/b8b8b8?=text=+)|77.86%|
+|🌆 Daytime                |14 commits          |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|10.69%|
+|🌃 Evening                |13 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|9.92%|
+|🌙 Night                  |2 commits           |![](https://via.placeholder.com/8x22/000000/000000?text=+)![](https://via.placeholder.com/392x22/b8b8b8/b8b8b8?=text=+)|1.53%|
 | | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
